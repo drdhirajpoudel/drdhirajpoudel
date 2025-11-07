@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr. Dhiraj Poudel | Clinical Cases</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; color: #333; }
+    header { text-align: center; }
+    a { text-decoration: none; color: #007acc; }
+    .case-list { margin-top: 30px; }
+    .case { padding: 10px; background: white; border-radius: 8px; margin-bottom: 15px; box-shadow: 0 0 5px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dr. Dhiraj Poudel</h1>
+    <p>Dermatology | Clinical Case Repository</p>
+  </header>
+
+  <section class="case-list">
+    <div class="case">
+      <a href="cases/case1.html"><h3>Case 1: Pemphigus Vulgaris</h3></a>
+      <p>Autoimmune blistering disease with suprabasal acantholysis.</p>
+    </div>
+    <div class="case">
+      <a href="cases/case2.html"><h3>Case 2: Psoriasis Vulgaris</h3></a>
+      <p>Chronic plaque psoriasis with silvery scales over elbows and knees.</p>
+    </div>
+  </section>
+</body>
+</html>
